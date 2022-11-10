@@ -11,32 +11,32 @@ const Navbar = () => {
         <img src="https://i.ibb.co/BTnzTr2/RF.png" alt="Error" />
 
       <Link to={"/"} className="navlinks">
-        HOME
+        SKINCARE
       </Link>
-      <Link to={"/makeup"} className="navlinks">
-        MAKEUP
+      <Link to={"/haircare"} className="navlinks">
+       HAIRCARE
       </Link>
-      <Link to={"/hair"} className="navlinks">
-        HAIR CARE
+      <Link to={"/bestseller"} className="navlinks">
+        BEST SELLERS
       </Link>
-      <Link to={"/skin"} className="navlinks">
-        SKIN CARE
+      <Link to={"/specialoffer"} className="navlinks">
+        SPECIAL OFFERS
       </Link>
-      <Link to={"/care"} className="navlinks">
-        SANITIZING CARE
+      <Link to={"/about"} className="navlinks">
+        ABOUT
       </Link>
-      <Link to={"/collection"} className="navlinks">
-        COLLECTION
+      <Link to={"/perkprogram"} className="navlinks">
+        PERKS PROGRAM
       </Link>
-      <Link to={"/rewards"} className="navlinks">
-        REWARDS
+      <Link to={"/becomeconsultant"} className="navlinks">
+        BECOME A CONSULTANT
       </Link>
-      <Link to={"/studio"} className="navlinks">
+      {/* <Link to={"/studio"} className="navlinks">
         MYGLAMY STUDIO
       </Link>
       <Link to={"/offers"} className="navlinks">
         OFFERS
-      </Link>
+      </Link> */}
     </div>
   );
 };
