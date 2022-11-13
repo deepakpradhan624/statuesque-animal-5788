@@ -31,12 +31,12 @@ const Navbar = () => {
       <Link to={"/becomeconsultant"} className="navlinks">
         BECOME A CONSULTANT
       </Link>
-      {/* <Link to={"/studio"} className="navlinks">
-        MYGLAMY STUDIO
+      <Link to={"/Login"} className="navlinks">
+        Login
       </Link>
-      <Link to={"/offers"} className="navlinks">
-        OFFERS
-      </Link> */}
+      <Link to={"/Signup"} className="navlinks">
+        Signup
+      </Link>
     </div>
   );
 };

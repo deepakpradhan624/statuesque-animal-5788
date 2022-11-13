@@ -127,11 +127,11 @@ const Home = () => {
             <div className="consultantsubcontainer">
               <div>need a skin or hair consultation?</div>
               <div>
-                "• Get customized product recommendations"
+                • Get customized product recommendations
                 <br />
-                "• Learn more about our products"
+                • Learn more about our products
                 <br />
-                "• Receive ongoing skin + hair care advice"
+                • Receive ongoing skin + hair care advice
                 <br />
               </div>
               <button>FIND A CONSULTANT</button>
