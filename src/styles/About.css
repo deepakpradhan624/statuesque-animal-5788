@@ -1,0 +1,19 @@
+.about_container{
+    width: 90%;
+    height: auto;
+    /* border: 1px solid red; */
+    display: flex;
+    margin: auto;
+}
+.details{
+    width: 35%;
+    height: 100%;
+}
+.image_section>img{
+    width: 800px;
+    height: 400px;
+}
+.image_section2>img{
+    width: 600px;
+    margin-right: 50px;
+}

@@ -75,14 +75,14 @@ const Home = () => {
 
            {/* 4th div in that multipledivs divs starts---------------------------- */}
 
-           <div className='sliderContainer'>
+           {/* <div className='sliderContainer'>
             <div></div>
             <div></div>
             <div></div>
             <div></div>
             <div></div>
             <div></div>
-           </div>
+           </div> */}
       {/* 4th div in that multipledivs divs ends---------------------------- */}
       {/* 5th div in that 6 divs starts---------------------------- */}
          
@@ -122,7 +122,7 @@ const Home = () => {
 
          {/* find a consultant div starts-----------------------------*/}
 
-         <div className='consultantcontainer'>
+         {/* <div className='consultantcontainer'>
 
             <div className="consultantsubcontainer">
               <div>need a skin or hair consultation?</div>
@@ -137,7 +137,7 @@ const Home = () => {
               <button>FIND A CONSULTANT</button>
             </div>
 
-         </div>
+         </div> */}
     </div>
   )
 }
