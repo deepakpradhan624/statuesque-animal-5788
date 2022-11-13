@@ -8,10 +8,10 @@ const Navbar = () => {
   return (
     <div className="nav">
         
-        <img src="https://i.ibb.co/BTnzTr2/RF.png" alt="Error" />
+        <img  src="https://i.ibb.co/BTnzTr2/RF.png" alt="Error" />
 
       <Link to={"/"} className="navlinks">
-        SKINCARE
+        HOME
       </Link>
       <Link to={"/haircare"} className="navlinks">
        HAIRCARE
